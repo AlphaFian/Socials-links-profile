@@ -24,6 +24,7 @@ body {
   background-color: var(--grey-900);
   font-family: "Inter", sans-serif;
   text-align: center;
+  height: 100vh;
 }
 img {
   width: 88px;
