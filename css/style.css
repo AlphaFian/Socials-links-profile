@@ -59,6 +59,7 @@ p {
 }
 
 .personal__info h1 {
+   margin-top: var(--space2);
   color: var(--white);
   font-size: var(--fs-1);
   font-weight: 700;
